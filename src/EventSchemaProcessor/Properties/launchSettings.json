@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EventSchemaProcessor": {
+      "commandName": "Project",
+      "commandLineArgs": "c:\\users\\johnc\\Downloads\\TraceOutput_L2noinit.xml"
+    }
+  }
+}
